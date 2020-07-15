@@ -1,0 +1,25 @@
+- name: Technical Writing
+  percentage: 90
+  color: info
+  desc: I always wanted to share my learnings and explain difficult concepts as efficiently as possible. 
+        And that is when I got the push I required, Technical Writer position at The Research Nest. 
+        The beauty of writing is the clarity of the concepts it provides. 
+        And I continue to write with the same incentive.
+
+- name: Leadership
+  percentage: 95
+  color: success
+  desc: Contributing to the Student Branch and being an executive member of IEEE, helped me evolve. 
+        Not just as a professional but as a human being. 
+        When you need to manage 100 student volunteers and lead them towards the same goal, 
+        it enhances your growth more than any big project.
+
+- name: Teaching and Mentoring
+  percentage: 90
+  color: success
+  desc: I took up teaching for one sole purpose, to contribute back. I wanted to show the students that 
+        AI is not that difficult if you understand it right. I wanted to explain them the basics well, 
+        and help them not make the same mistakes I did. So that they could go even further than what I am right now.
+        For that reason I started the AIC in February 2019, as soon as I became the Secreatary of the SB. Do visit
+        AIC section for more on that.
+

@@ -1,0 +1,106 @@
+### Site Settings ###
+title               : DishantParikh
+description         : >-
+                      I want to further the boundaries of what's possible with data science. 
+                      I spend as much time as possible working with, different solutions, 
+                      combining the power of genetic programming with deep learning.
+url                 : Dishant-P.github.io
+baseurl             : "portfolio"                                # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
+repository          :     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
+remote_theme        : YoussefRaafatNasry/portfolYOU
+
+
+### Plugins ###
+plugins:
+  - jemoji
+  - jekyll-seo-tag
+
+
+### Navbar Settings ###
+nav_exclude:                                            # The following paths are excluded from navbar
+  - pages/tags.html
+  - pages/404.html
+  - pages/index.md
+  - documentation/partials/**                           # For Documentation Only
+
+
+### Author Info ###
+author:
+  name              : Dishant Parikh
+  image             : dishant.png
+#  behance           : your_username
+# dribbble          : your_username
+  email             : dishant30899@gmail.com
+#  facebook          : your_username
+  github            : Dishant-P
+# gitlab            : your_username
+# instagram         : your_username
+# kaggle            : your_username
+  linkedin          : dishant-parikh
+  medium            : DishantP
+# soundcloud        : your_username
+# spotify           : your_username
+# stackoverflow     : your_user_id
+# tumblr            : your_username.tumblr.com
+# twitch            : your_username
+#  twitter           : your_username
+# vimeo             : your_username
+# youtube           : your_channel_name
+
+
+### Posts ###
+permalink: /blog/:title
+
+
+### Collections ###
+collections:
+  projects:
+    output: true
+    permalink: /projects/:name
+  research:
+    output: true
+    permalink: /research/:name
+  elements:                                             # For Documentation Only
+    output: true                                        # For Documentation Only
+
+
+### Disqus ###
+disqus: your-short-name-disqus                          # Your website Shortname on disqus
+
+
+### Analytics ###
+analytics:
+  enabled: true                                        # Set true to enable analytics
+  google:
+    tracking_id: UA-172767032-1
+
+
+### Defaults for collections ###
+defaults:
+  - scope:
+      path: ""
+      type: "projects"
+    values:
+      layout: "page"
+  - scope:                                              # For Documentation Only
+      path: ""                                          # For Documentation Only
+      type: "elements"                                  # For Documentation Only
+    values:                                             # For Documentation Only
+      layout: "element"                                 # For Documentation Only
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      comments: false
+    scope:
+      path: ""
+      type: "research"
+    values:
+      layout: "page"                               # Set to true to enable disqus comments
+
+### Exclude from processing ###
+exclude:
+  - README.md
+  - CONTRIBUTING.md
+  - LICENSE
+  - "*.log"

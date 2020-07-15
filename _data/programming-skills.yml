@@ -1,0 +1,28 @@
+- name: Python
+  percentage: 90
+  color: danger
+  desc: I have been working in Python for 3+ years. 
+        I have a clear grasp of the basic as well as advanced topics of Python 
+        like advanced flow control and descriptors, to name a few.
+
+- name: Machine Learning
+  percentage: 80
+  color:
+  desc: I started with Machine Learning in Feb'18. 
+        I am captivated ever since. Derailing from the cliche, 
+        I actually learned the math behind the algorithms. 
+        That is something that helped me in gaining confidence as well as ease in research.
+
+- name: Computer Vision
+  percentage: 80
+  color: dark
+  desc: Once acquainted with ML/DL concepts, in 2019, I wanted to choose a specialty
+        in Artificial Intelligence. The main incentive was to understand human perception. 
+        And the best way to understand something is to build it. The choice was obvious.
+
+- name: Data Analytics
+  percentage: 75
+  color: info
+  desc: The one topic of which I didn't understand the importance at the time, 
+        is now one of my favorite subjects. Not just Data Analysis, 
+        the entire domain of Data processing took me in once I started with research.
