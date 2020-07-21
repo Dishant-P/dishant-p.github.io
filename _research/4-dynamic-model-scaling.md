@@ -30,5 +30,5 @@ deeper and better neural architectures.
 EfficientNets may also be useful in prototyping newer model architectures as it can get the best model meta features on its own. So if we are able to take a time snapshot, we may declare a acretain network as better for a particular class of image and another for a different one. With this it is suffice to say that with EfficentNets, the whole deep learning community will now have a power to dynamically test their models on different neural architectures on a single run through the network. When we train the model we need not think about the meta features required to increase the efficiency of the model as such.
 
 <p class="text-center">
-{% include elements/button.html link="https://drive.google.com/file/d/1nMB3AdvzEfsIdw5pqPrUFdC46SYm4uVk/view?usp=sharing" text="Read Draft" %}
+{% include elements/button.html link="#" text="Draft unavailable" %}
 </p>
