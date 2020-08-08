@@ -3,7 +3,7 @@ title: Accuracy Releance trade-off in Transfer Learning for Object Detection
 tags: [Computer Vision, Dataset Relevance, January'20]
 style: fill
 color: primary
-description: IEEE - Acceptance and due publishing <br>
+description: IEEE - Published <br>
 external_url: 
 ---
 
@@ -29,5 +29,5 @@ The results of the experiments support the claims and hence prove that there doe
 custom data.
 
 <p class="text-center">
-{% include elements/button.html link="https://drive.google.com/file/d/1nqIQiqOhJr5BF_DW4DpBGcozLn7cNrCb/view?usp=sharing" text="Read full paper" %}
+{% include elements/button.html link="https://ieeexplore.ieee.org/abstract/document/9154086" text="Read full paper" %}
 </p>

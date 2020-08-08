@@ -1,14 +1,14 @@
 ---
-title: Dataset similarity index - Making the similar class classifications accurate
-tags: [Computer Vision, Dataset Relevance, June'20]
+title:  Similarity-Based Clustering for Enhancing Image Classification Architectures
+tags: [Deep Learning Architectures, Image Similarity, July'20]
 style: fill
 color: dark
-description: Active ongoing research
+description: Under Review
 external_url: 
 ---
 
 
-# Dataset similarity index: Making the similar class classifications accurate
+# Similarity-Based Clustering for Enhancing Image Classification Architectures
 
 ###### - _**Dishant Parikh**_
 
