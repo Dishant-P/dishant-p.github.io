@@ -10,9 +10,8 @@ external_url:
 
 # Similarity-Based Clustering for Enhancing Image Classification Architectures
 
-###### - _**Dishant Parikh**_
+###### - _**Dishant Parikh**_, _**Shambhavi Aggarwal**_ 
 
 <br>
 
-### Abstract
->Research active, will update soon.
+>Research conclusive. Draft would be added soon after acceptance. 
