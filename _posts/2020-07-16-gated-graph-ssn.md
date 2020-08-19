@@ -1,6 +1,6 @@
 ---
 title: Gated Graph Sequence Neural Networks
-tags: [GNN, Gated Networks]
+tags: [GNN, Gated Networks, OG]
 style: fill
 color: primary
 description: A dive into the theory of GGSNN
