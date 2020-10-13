@@ -28,5 +28,5 @@ The research discusses the  development of a model to extract the best time to t
 This would then lead to greater improvements to the efficiency of the feature extraction process. This can take the computational toll down by at least 10 times the current value. When it comes to the use of the technology, this method can be used for faster analysis in the music applications, which deals with the features like understanding the likings of a particular user. For that most applications use data analysis on two features, one is the lyrics and second the tune, i.e. the spectral features. By considering the flow of music into such applications every day, if someone needs to give somewhat of an analysis every time a new song is entered, it can be done dynamically by using our technique. The workaround is going to lead to near-perfect spectral feature extraction, at least **10 times** faster.
 
 <p class="text-center">
-{% include elements/button.html link="https://drive.google.com/file/d/1b5s68ml4EHD4N950uhfuTFD2k1fJuVxK/view?usp=sharing" text="Read full paper" %}
+{% include elements/button.html link="https://arxiv.org/abs/2010.03136" %}
 </p>
