@@ -1,8 +1,8 @@
 ---
 title:  Similarity-Based Clustering for Enhancing Image Classification Architectures
 tags: [Deep Learning Architectures, Image Similarity, July'20]
-style: fill
-color: dark
+style: 
+color: warning
 description: Under Review - Paper accessible
 external_url: 
 ---
@@ -28,5 +28,5 @@ The methodology is adaptive, but still,more  work  can  be  done  in  improving 
 We  showed  how  the  knowledge  of  similarity  of  the  imageclasses, can be leveraged in making the model trainings betterand faster. It can also be used when the computational capacityis  low  for  a  single  thread.  The  dataset  can  be  broken  downeasily  into  clusters,  which  are  trained  individually,  and  thena rule-based system can be provided to make the appropriatemodel choice for predictions. 
 
 <p class="text-center">
-{% include elements/button.html link="https://www.techrxiv.org/articles/preprint/Similarity-Based_Clustering_for_Enhancing_Image_Classification_Architectures/13186478" text="Read full paper" %}
+{% include elements/button.html link="https://arxiv.org/abs/2011.04728" text="Read full paper" %}
 </p>
