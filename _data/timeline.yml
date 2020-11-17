@@ -4,15 +4,15 @@
   description: Responsible for developing a smart system based on drone images, for the detection of crops and
                running stress test algorithms.
                Used a transfer learning approach to train the model, with a confined dataset of 350 images only.
-               Creation of dataset, preparing and cleaning, all the steps were involved while developing the system.
-               Second project was for overhead water-tank detection, wrote a paper for the same, ‘Water tank
+               Creation of dataset, preparing, and cleaning, all the steps were involved while developing the system.
+               The second project was for overhead water-tank detection, wrote a paper for the same, ‘Water tank
                detection – Using Faster-RCNN’.
 
 - title: Deep Technical Writer, Pepper Content
   from: July-2020
   to: Present
-  description: I currently work in creating technical content in the field of AI, Python and related fields. I write
-               content for clients like PayTM, upGrad and Jigsaw Academy to name a few.
+  description: I currently work in creating technical content in the field of AI, Python, and related fields. I write
+               content for clients like PayTM, upGrad, and Jigsaw Academy to name a few.
 
 - title: Technical Writer, The Research Nest
   from: April-2020
@@ -32,16 +32,16 @@
 - title: Member and former Secretary of SB, IEEE 
   from: Feb 2018
   to: Present
-  description: I started volunteering at the Student branch in my sophmore year. 
-               As a member I organsied the flagship event of CS Chapter - Ordinateur. I lead the 
+  description: I started volunteering at the Student branch in my sophomore year. 
+               As a member, I organized the flagship event of CS Chapter - Ordinateur. I lead the 
                team of 75 student volunteers, towards a successful event. 
                In February 2019, I became the Secretary of the Student Branch. It curated many skills 
-               which helped me evolve as a leader and really helped me in commencing the AIC in the campus.
+               which helped me evolve as a leader and really helped me in commencing the AIC on the campus.
 
 - title: Bachelor's, Computer Science
   from: 2016
   to: 2020
   description: I have studied the core software engineering subjects like Data Structures and
-               Algorithms, DBMS, Operating Systems and System Architectures.
-               Apart from this, I have done courses on Deep Learning, Data Science and Computer Vision.
+               Algorithms, DBMS, Operating Systems, and System Architectures.
+               Apart from this, I have done courses on Deep Learning, Data Science, and Computer Vision.
                Apart from Python, I am comfortable in C++ and Java.
