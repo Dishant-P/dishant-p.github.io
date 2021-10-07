@@ -1,7 +1,7 @@
 ---
 title:  Similarity-Based Clustering for Enhancing Image Classification Architectures
 tags: [Deep Learning Architectures, Image Similarity, July'21]
-style: 
+style: fill
 color: primary
 description: Under Review - Paper accessible
 external_url: 

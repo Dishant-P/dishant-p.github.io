@@ -1,8 +1,8 @@
 ---
 title:  S-Extension Patch - A simple and efficient way to extend an object detection model
 tags: [DSI, Image similarity, Visual datasets, Perception architectures, Sep'21]
-style: 
-color: warning
+style: fill
+color: success
 description: Under Review - Paper accessible
 external_url: 
 ---
