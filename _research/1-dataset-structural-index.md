@@ -31,5 +31,5 @@ DSI helps in making better decisions about the dataset choice and the model arch
 4. To ease the decision-making process by giving a logical guess as to whichmodel would work best, given the DSI values.
 
 <p class="text-center">
-{% include elements/button.html link="#" text="Read full paper" %}
+{% include elements/button.html link="https://arxiv.org/abs/2110.04070" text="Read full paper" %}
 </p>
