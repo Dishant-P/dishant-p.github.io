@@ -15,5 +15,5 @@ This project was developed under **RRSC(W), ISRO, Dept. of Space, Govt. of India
 The portal helps any registered user to create a flawless form based application to be used for collection of geo-spatial data in the field. Then the data uploaded from app can be viewed as a layer on the user's GIS portal.
 
 <p class="text-center">
-{% include elements/button.html link="404.html" text="Learn More" %}
+{% include elements/button.html link="https://drive.google.com/file/d/1SNvYxjzSSOE6MtlZqRbWfVr2ElN1pcDh/view?usp=sharing" text="Learn More" %}
 </p>
