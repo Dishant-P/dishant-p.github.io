@@ -1,5 +1,5 @@
 ---
-title:  Dataset Structural Index - Understanding a machine's perspective towards visual data
+title:  Dataset Structural Index - Leveraging a machine's perspective towards visual data
 tags: [DSI, Image similarity, Visual datasets, Perception architectures, Sep'21]
 style: 
 color: success
@@ -8,7 +8,7 @@ external_url:
 ---
 
 
-# Dataset Structural Index: Understanding a machine's perspective towards visual data
+# Dataset Structural Index: Leveraging a machine's perspective towards visual data
 
 ###### - _**Dishant Parikh**_
 
